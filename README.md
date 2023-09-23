@@ -1,2 +1,2 @@
 # Binary-Converter
-Converter binary numbers to different number systems
+Converte binary numbers to different number systems
